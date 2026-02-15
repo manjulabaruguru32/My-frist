@@ -1,2 +1,2 @@
 # My-frist
-java project
+Online Flight Booking System project
